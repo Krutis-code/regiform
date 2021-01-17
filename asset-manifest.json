@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/regiform/static/css/main.b8d02a9d.chunk.css",
+    "main.js": "/regiform/static/js/main.aa12d872.chunk.js",
+    "main.js.map": "/regiform/static/js/main.aa12d872.chunk.js.map",
+    "runtime-main.js": "/regiform/static/js/runtime-main.cf3a06ba.js",
+    "runtime-main.js.map": "/regiform/static/js/runtime-main.cf3a06ba.js.map",
+    "static/js/2.06b54f8a.chunk.js": "/regiform/static/js/2.06b54f8a.chunk.js",
+    "static/js/2.06b54f8a.chunk.js.map": "/regiform/static/js/2.06b54f8a.chunk.js.map",
+    "static/js/3.d647457f.chunk.js": "/regiform/static/js/3.d647457f.chunk.js",
+    "static/js/3.d647457f.chunk.js.map": "/regiform/static/js/3.d647457f.chunk.js.map",
+    "index.html": "/regiform/index.html",
+    "static/css/main.b8d02a9d.chunk.css.map": "/regiform/static/css/main.b8d02a9d.chunk.css.map",
+    "static/js/2.06b54f8a.chunk.js.LICENSE.txt": "/regiform/static/js/2.06b54f8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf3a06ba.js",
+    "static/js/2.06b54f8a.chunk.js",
+    "static/css/main.b8d02a9d.chunk.css",
+    "static/js/main.aa12d872.chunk.js"
+  ]
+}
